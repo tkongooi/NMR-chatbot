@@ -1,0 +1,31 @@
+# Foundational Libraries
+numpy==1.26.4
+protobuf==4.25.3
+python-dotenv==1.0.1
+psutil==5.9.8
+watchdog==4.0.1
+PyMuPDF==1.24.9
+
+# LangChain Family (Pinned to a compatible set)
+langchain==0.2.10
+langchain-community==0.2.10
+langchain-core==0.2.24
+langchain-google-genai==1.0.7
+langchain-text-splitters==0.2.2
+langsmith==0.1.83
+
+# Google AI
+google-generativeai==0.7.1
+google-ai-generativelanguage==0.6.6
+
+# Vector Store & Embeddings
+chromadb==0.5.4
+sentence-transformers==3.0.1
+
+# Document Loaders
+pypdf==4.3.1
+unstructured[local-inference]==0.14.9
+pdfminer.six==20221105
+
+# Application Framework
+streamlit==1.36.0

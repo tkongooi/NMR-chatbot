@@ -1,0 +1,15 @@
+# Virtual Environment
+chatbot-env/
+
+# Secret files
+.env
+
+# Python Caches
+__pycache__/
+*.pyc
+
+# Local Data (we will handle this with Git LFS)
+# source_documents/ 
+
+# System files
+.DS_Store
